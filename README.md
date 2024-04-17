@@ -37,6 +37,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 > **Seamlessly track and organize your applications across all major sites with our chrome extension!**
 
 
+
 <p align="center">
   <a href="https://www.ribbon.ai/install" target="_blank">
     <img src="data/images/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:300px;"/>
