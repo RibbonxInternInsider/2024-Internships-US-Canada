@@ -42,7 +42,7 @@ for listing in listings[:500]:
     locations = listing.get('Location(s)', 'N/A')
     date_posted = listing.get('Date Posted', 'N/A') 
     apply_url = listing.get('Apply', '')
-    apply_url_encoded = urllib.parse.quote(apply_url, safe=':/')
+    apply_url_encoded = apply_url
     link_button = (f'<a href="{apply_url_encoded}"><img src="data/images/applybutton.png" alt="Apply Button" style="width:85px;"></a>'
                     f'<a href="https://www.ribbon.ai/install"><img src="data/images/ribbonbutton.png" alt="Ribbon" style="width:85px;"></a>')
 
