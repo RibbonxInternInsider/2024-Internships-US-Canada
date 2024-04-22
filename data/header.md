@@ -1,8 +1,6 @@
 # Summer 2024 Tech+ Internships by Ribbon 🌟
 
 
-# Welcome!
-
 This list is your **go-to resource** for 1000s of internships and entry-level jobs in tech, design, business, and more for **Summer 2024**. It's updated regularly with new opportunities. Share with a friend in need!
 
 > :sparkles: **Share**
