@@ -44,7 +44,7 @@ for listing in listings[:500]:
     apply_url = listing.get('Apply', '')
     apply_url_encoded = urllib.parse.quote(apply_url, safe=':/')
     link_button = (f'<a href="{apply_url_encoded}"><img src="data/images/applybutton.png" alt="Apply Button" style="width:85px;"></a>'
-                    f'<a href="https://www.ribbon.ai/install"><img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:85px;"></a>')
+                    f'<a href="https://www.ribbon.ai/install"><img src="data/images/ribbonbutton.png" alt="Ribbon" style="width:85px;"></a>')
 
     markdown_content += f"| {company_name} | {role} | {locations} | {link_button} | {date_posted} |\n"
 
