@@ -1,11 +1,5 @@
-# Summer 2024 Tech+ Internships by Intern Insider & Ribbon 🌟
+# Summer 2024 Tech+ Internships by Ribbon 🌟
 
-
-<p align="center">
-  <a href="https://www.ribbon.ai/install">
-    <img src="data/images/header.png" alt="Subscribe to Intern Insider" style="width:1920px;"/>
-  </a>
-</p>
 
 # Welcome!
 
@@ -21,16 +15,6 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 🌎 **Please note** that this list is predominantly internships/jobs based in the **United States, Canada, and Remote**.
 
 ---
-
-😴 Tired of checking for new internships every day? 💤
-
-> :mailbox: **Have new internship opportunities sent directly to your inbox!**
-
-<p align="center">
-  <a href="https://www.interninsider.me/subscribe?utm_source=git" target="_blank">
-    <img src="data/images/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:300px;"/>
-  </a>
-</p>
 
 
 😩 Struggling to keep track of all your applications? 🫠
